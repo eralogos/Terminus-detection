@@ -1,0 +1,6 @@
+table <- read.csv("regression.CSV")
+model <- lm(temperature ~ ng1,data=table)
+cor(table$ng1, table$temperature)
+plot(table$ng1, table$temperature, trend=TRUE)
+plot(model)
+abline(model)

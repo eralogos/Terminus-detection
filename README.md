@@ -1,5 +1,5 @@
 # Terminus-detection
-The codes used for terminus detection
+The codes used for terminus detection in Nioghalvfjerdsfjord Gletscher (NG) in Northeast Greenland Ice Stream (NEGIS). Imagery data is from Sentinel-1 Level 1 C-band GRD SAR. 
 
 Codes used in Google Earth Engine:
 
